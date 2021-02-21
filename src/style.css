@@ -1,0 +1,32 @@
+body {
+    font-size: 62.5%;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    text-align: center;
+    padding: 2.5rem 0;
+    margin: 1.5rem auto;
+    background: #989da6;
+    color: #2c2e30;
+}
+
+.main_heading {
+    font-size: 4rem;
+    margin: 0 auto;
+}
+
+.short_description {
+    font-size: 1.3rem;
+}
+
+#img-div {
+    text-align: center;
+}
+
+#image {
+    max-height: 65vh;
+    max-width: 100%;
+}
